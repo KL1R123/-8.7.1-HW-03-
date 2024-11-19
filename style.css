@@ -1,0 +1,28 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+};
+
+#answerField {
+    color: violet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+};
+
+#btnLess {
+    color: brown;
+    background-color: sandybrown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+};
+
+#btnOver {
+    color: brown;
+    background-color: sandybrown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+};
+
+
+
+
+
+
+
